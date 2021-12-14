@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "grape-app/grape",
     "authors": [
@@ -13,4 +14,20 @@
         }
     }
 
+=======
+{
+    "name": "grape-app/grape",
+    "authors": [
+        {
+            "name": "Grape Inc",
+            "email": "grape2021@logidados.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Grape\\": "src"
+        }
+    }
+>>>>>>> 429506a19894178ed4c36c3e1426017d6f6fa028
 }
