@@ -6,6 +6,6 @@ class HelloWorld
 {
     public function handler()
     {
-        echo 'Hello World 6';
+        echo 'Hello World 7';
     }
 }
